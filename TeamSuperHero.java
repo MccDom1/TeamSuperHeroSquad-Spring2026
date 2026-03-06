@@ -12,5 +12,9 @@ public class TeamSuperHero {
     public static void main(String[] args) {
         System.out.println("Marcquella Dillon");
     }
+    
+    public static void main(String[] args) {
+    	System.out.println("Jake Sargent");
+    }
 
 }
